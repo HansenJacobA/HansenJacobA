@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @HansenJacobA
-      Jacob Hansen.
-- 👀 I’m interested in ...
-      Contributing to the technological future through teamwork and a commitment to excellence.
-- 🌱 I’m currently learning ...
-      JavaScript, Java, & Algorithms and Data Structures.
-- 💞️ I’m looking to collaborate on ...
-      Application Development.
-- 📫 How to reach me ...
-      Discord @that1duder#4410
+- 👋 Hi, I’m Jacob Hansen
+- 👀 I’m interested in contributing to the technological future through teamwork and a commitment to excellence.
+- 🌱 I’m currently learning JavaScript, Java, and Algorithms and Data Structures.
+- 💞️ I’m looking to collaborate on Application Developments.
+- 📫 How to reach me, via Discord @that1duder#4410
