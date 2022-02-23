@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob Hansen
 - 👀 I’m interested in contributing to the technological future through teamwork and inovation. 
-- 🌱 I’m currently completing Galvanize Hack Reactor Software Engineering bootcamp.
+- 🌱 I’m currently fullstack programming, Javascript, HTML, CSS, and Java OOP.
 - 💞️ I’m looking to collaborate on Application Developments.
 - 📫 How to reach me, via Discord @that1duder#4410.
