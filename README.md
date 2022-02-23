@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob Hansen
-- 👀 I’m interested in contributing to the technological future through teamwork and a commitment to excellence.
-- 🌱 I’m currently learning JavaScript, Java, and Algorithms and Data Structures.
+- 👀 I’m interested in contributing to the technological future through teamwork and inovation. 
+- 🌱 I’m currently completing Galvanize Hack Reactor Software Engineering bootcamp.
 - 💞️ I’m looking to collaborate on Application Developments.
-- 📫 How to reach me, via Discord @that1duder#4410
+- 📫 How to reach me, via Discord @that1duder#4410.
